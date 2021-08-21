@@ -118,7 +118,7 @@ if (isset($_GET['hal']))
 	<div class="container">
 		
 
-	<h1 class="text-center">Input Member Baru</h1>
+	<h1 class="text-center">Input Member Apaan Sih</h1>
 	<h2 class="text-center">MLM</h2>
 
 <!-- Awal Card F -->
